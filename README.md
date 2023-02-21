@@ -7,26 +7,22 @@ For each pattern I have listed 10 LeetCode questions to practice on and the list
 
 
 ### 1. <b>Brute Force</b> - Beginner
+#### Start simple. Try all possible solutions and check if they work.
 <details>
-Start simple. Try all possible solutions and check if they work.
+Practice questions:
 <p>
-    <p>
-    Practice:
-    </p>
     <ul>
-        <li>
-            Two Sum: https://leetcode.com/problems/two-sum/
-        </li>
+        <li>Two Sum: https://leetcode.com/problems/two-sum/</li>
+        <li>Reverse Integer: https://leetcode.com/problems/reverse-integer/</li>
+        <li>Palindrome Number: https://leetcode.com/problems/palindrome-number/</li>
+        <li>Climbing Stairs: https://leetcode.com/problems/climbing-stairs/</li>
+        <li>Valid Parentheses: https://leetcode.com/problems/valid-parentheses/</li>
+        <li>Roman to Integer: https://leetcode.com/problems/roman-to-integer/</li>
+        <li>Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/</li>
+        <li>Plus One: https://leetcode.com/problems/plus-one/</li>
+        <li>Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/</li>
+        <li>Maximum Subarray: https://leetcode.com/problems/maximum-subarray/</li>
     </ul>
-    Reverse Integer: https://leetcode.com/problems/reverse-integer/
-    Palindrome Number: https://leetcode.com/problems/palindrome-number/
-    Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
-    Valid Parentheses: https://leetcode.com/problems/valid-parentheses/
-    Roman to Integer: https://leetcode.com/problems/roman-to-integer/
-    Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-    Plus One: https://leetcode.com/problems/plus-one/
-    Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/
-    Maximum Subarray: https://leetcode.com/problems/maximum-subarray/
 </p>
 </details>
 
