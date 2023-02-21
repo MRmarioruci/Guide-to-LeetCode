@@ -6,11 +6,9 @@ Are you tired of struggling with algorithm questions on LeetCode? As someone (wi
 For each pattern I have listed 10 LeetCode questions to practice on and the list is sorted by learning curve.
 
 
+### 1. <b>Brute Force</b> - Beginner
 <details>
-<summary>
-    1. <b>Brute Force</b> - Beginner
-    Start simple. Try all possible solutions and check if they work.
-</summary>
+Start simple. Try all possible solutions and check if they work.
 <p>
     <p>
     Practice:
