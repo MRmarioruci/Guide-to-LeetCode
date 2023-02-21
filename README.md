@@ -8,12 +8,16 @@ For each pattern I have listed 10 LeetCode questions to practice on and the list
 
 <details>
 <summary>
-    1. ** Brute Force ** - Beginner
+    1. **Brute Force** - Beginner
     Start simple. Try all possible solutions and check if they work.
 </summary>
 <p>
+    <p>
     Practice:
-    Two Sum: https://leetcode.com/problems/two-sum/
+    </p>
+    <p>
+        Two Sum: https://leetcode.com/problems/two-sum/
+    </p>
     Reverse Integer: https://leetcode.com/problems/reverse-integer/
     Palindrome Number: https://leetcode.com/problems/palindrome-number/
     Climbing Stairs: https://leetcode.com/problems/climbing-stairs/
